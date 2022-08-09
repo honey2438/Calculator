@@ -1,5 +1,5 @@
 # calculator
-LINK: https://honey2438.github.io/calculator/
+LINK: https://honey2438.github.io/Calculator-Website/
 
 <h1>About</h1>
 
